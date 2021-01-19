@@ -1,7 +1,7 @@
 {
   "name": "linter-textidote",
   "main": "./lib/linter-textidote",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Linter plugin for LaTeX, using TeXtidote.",
   "keywords": [
     "tex",
